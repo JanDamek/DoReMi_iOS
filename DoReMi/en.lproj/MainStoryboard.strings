@@ -1,0 +1,9 @@
+
+/* Class = "IBUILabel"; text = "How to playing game"; ObjectID = "6dc-pi-RaO"; */
+"6dc-pi-RaO.text" = "How to playing game";
+
+/* Class = "IBUIButton"; normalTitle = "back"; ObjectID = "biD-Cw-6hF"; */
+"biD-Cw-6hF.normalTitle" = "back";
+
+/* Class = "IBUIButton"; normalTitle = "Close"; ObjectID = "d0v-cz-oX7"; */
+"d0v-cz-oX7.normalTitle" = "Close";
